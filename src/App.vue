@@ -13,7 +13,15 @@
 
     <div class="row">
       <div class="col">
-        <p>This is a paragraph</p>
+        <p>This is a paragraph.</p>
+      </div>
+    </div>
+
+    <hr />
+
+    <div class="row">
+      <div class="col">
+        <p>This could be a footer</p>
       </div>
     </div>
   </div>
