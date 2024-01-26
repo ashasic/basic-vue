@@ -11,6 +11,8 @@
       </div>
     </div>
 
+    <hr />
+
     <div class="row">
       <div class="col">
         <p>This is a paragraph.</p>
